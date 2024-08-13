@@ -1,2 +1,8 @@
 # introductory_optics
-Some study notes on (introductory) optics
+
+My own study notes on optics
+
+* Goodman's "Introduction to Fourier Optics"
+* Hecht's "Optics"
+* Konijnenberg's Youtube Channel https://www.youtube.com/@SanderKonijnenberg
+* ......
