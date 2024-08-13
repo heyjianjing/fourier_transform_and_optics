@@ -1,6 +1,6 @@
 # introductory_optics
 
-My own study notes on optics
+Some study notes on optics
 
 * Konijnenberg's Youtube Channel https://www.youtube.com/@SanderKonijnenberg
 * Hecht's "Optics"
