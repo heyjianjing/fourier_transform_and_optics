@@ -1,7 +1,7 @@
 # Fourier transform and optics (and other applications)
 
-`ft`: Fourier transform \\
-`go`: geometric optics \\
+`ft`: Fourier transform \
+`go`: geometric optics \
 `wo`: wave optics 
 
 ### Notes on `Fourier transform`
