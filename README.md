@@ -4,7 +4,7 @@
 `go`: Geometric optics
 `wo`: Wave optics
 
-### Notes on Fourier transform
+### Notes on `Fourier transform`
 
 Source:
 * Lectures from Prof. Brad Osgood at Stanford
@@ -15,7 +15,7 @@ Source:
 * Inner product between functions
 * Complex exponential as orthonormal basis for functions
 
-### Notes on geometric optics and wave optics 
+### Notes on `geometric optics` and `wave optics`
 
 Source: 
 * Lectures from Sander Konijnenberg, currently with ASML)
