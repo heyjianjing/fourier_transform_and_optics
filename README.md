@@ -11,7 +11,7 @@ Source:
 
 `ft_01`
 * Analysis and synthesis of period function
-* Fourier series
+* Fourier series with period 1
 * Inner product between functions
 * Complex exponential as orthonormal basis for functions
 
