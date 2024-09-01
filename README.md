@@ -4,10 +4,10 @@
 `go`: Geometric optics
 `wo`: Wave optics
 
-### Notes on fourier transform
+### Notes on Fourier transform
 
 Source:
-* largely based on lectures from Prof. Brad Osgood at Stanford
+* Lectures from Prof. Brad Osgood at Stanford
 
 `ft_01`
 * Analysis and synthesis of period function
