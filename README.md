@@ -1,7 +1,7 @@
 # fourier transform and optics (and other applications)
 
 ### Notes on fourier transform (`ft`) 
-#### (largely based on lectures from Prof. Brad Osgood of Stanford)
+#### (largely based on lectures from Prof. Brad Osgood at Stanford)
 
 `ft_01`
 * Analysis and synthesis of period function
