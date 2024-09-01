@@ -11,12 +11,12 @@ Source:
 
 `ft_01`
 * Analysis and synthesis of period function
-* Fourier series with period 1
+* Fourier series of function with period 1
 * Inner product between functions
 * Complex exponential as orthonormal basis for functions
 
 `ft_02`
-* Fourier series with general period $T$
+* Fourier series of function with period $T$
 * Setup for Fourier transform as Fourier series with $T \rightarrow \infty$
 * Variables of Fourier and inverse Fourier transform
 
