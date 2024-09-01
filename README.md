@@ -15,6 +15,11 @@ Source:
 * Inner product between functions
 * Complex exponential as orthonormal basis for functions
 
+`ft_02`
+* Fourier series with general period $T$
+* Setup for Fourier transform as Fourier series with $T \rightarrow \infty$
+* Variables of Fourier and inverse Fourier transform
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
