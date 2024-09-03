@@ -20,6 +20,12 @@ Source:
 * Setup for Fourier transform as Fourier series with $T \rightarrow \infty$
 * Variables of Fourier and inverse Fourier transform
 
+`ft_03`
+* Shift property
+* Scaling property
+* Derivative property
+* Duality with reversed function
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
