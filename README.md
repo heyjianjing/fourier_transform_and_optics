@@ -29,7 +29,7 @@ Source:
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
-* Lectures from Sander Konijnenberg, currently with ASML)
+* Lectures from Sander Konijnenberg, currently with ASML
 
 `go_01`
 * Convex and concave lens
