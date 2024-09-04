@@ -26,6 +26,11 @@ Source:
 * Derivative property
 * Duality with reversed function
 
+`ft_04`
+* Convolution
+* Convolution in one domain is multiplication in the other domain
+* Convolution is commutative
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
