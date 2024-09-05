@@ -1,7 +1,7 @@
 # Fourier transform and optics
 
 `ft`: Fourier transform \
-`go`: geometric optics \
+`go`: geometric optics 
 
 ### Notes on `Fourier transform`
 
