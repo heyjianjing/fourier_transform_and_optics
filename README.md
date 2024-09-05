@@ -33,7 +33,7 @@ Source:
 
 `ft_05`
 * Problem with classic Fourier transform definition
-* Rapidly decreasing functions that works for classic definition
+* Rapidly decreasing functions that work for classic definition
 * Test function and distribution
 * Delta function as distribution
 * Ordinary function as distribution
