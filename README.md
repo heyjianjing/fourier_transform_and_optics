@@ -31,6 +31,15 @@ Source:
 * Convolution in one domain is multiplication in the other domain
 * Convolution is commutative
 
+`ft_05`
+* Problem with classic Fourier transform definition
+* Rapidly decreasing functions that works for classic definition
+* Test function and distribution
+* Delta function as distribution
+* Ordinary function as distribution
+* Fourier transform in context of distribution
+* Some examples
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
