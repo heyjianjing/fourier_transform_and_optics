@@ -20,7 +20,7 @@ Source:
 * Variables of Fourier and inverse Fourier transform
 
 `ft_03`
-* Shift property
+* Shifting property
 * Scaling property
 * Derivative property
 * Duality with reversed function
