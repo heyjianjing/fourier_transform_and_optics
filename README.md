@@ -39,6 +39,11 @@ Source:
 * Fourier transform in context of distribution
 * Some examples
 
+`ft_06`
+* Sampling property of delta function via multiplication
+* Shifting property of delta function via convolution
+* Scaling of delta function
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
