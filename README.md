@@ -47,7 +47,7 @@ Source:
 `ft_07`
 * Setup for Shah function
 * Definition
-* Poisson summation formulation and Fourier transform of Shah function
+* Poisson summation formula and Fourier transform of Shah function
 
 ### Notes on `geometric optics` and `wave optics`
 
