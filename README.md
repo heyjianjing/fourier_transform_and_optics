@@ -49,6 +49,11 @@ Source:
 * Definition
 * Poisson summation formula and Fourier transform of Shah function
 
+`ft_08`
+* Sampling theorem for bandlimited function
+* Aliasing with undersampling
+* Example of aliasing
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
