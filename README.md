@@ -44,6 +44,11 @@ Source:
 * Shifting property of delta function via convolution
 * Scaling of delta function
 
+`ft_07`
+* Setup for Shah function
+* Definition
+* Poisson summation formulation and Fourier transform of Shah function
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
