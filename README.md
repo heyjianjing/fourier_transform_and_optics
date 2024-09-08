@@ -57,7 +57,7 @@ Source:
 `ft_09`
 * Setup for discrete Fourier transform (DFT)
 * Sampled form of function in time domain
-* Continous Fourier transform of sampled form of function
+* Continuous Fourier transform of sampled form of function
 * Sampling in frequency domain to get sampled form of Fourier transform (of sampled form of function)
 * Replace sampled forms with discrete functions
 * Define DFT
