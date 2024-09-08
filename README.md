@@ -62,6 +62,15 @@ Source:
 * Replace sampled forms with discrete functions
 * Define DFT
 
+`ft_10`
+* Discrete complex exponentials
+* Orthogonality between discrete complex exponentials
+* Define inverse DFT
+* Some examples of DFT
+* Periodicity induced by discrete complex exponentials
+* Duality for reversed function
+* Shifting property in DFT
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
