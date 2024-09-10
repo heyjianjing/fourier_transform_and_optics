@@ -71,6 +71,11 @@ Source:
 * Duality for reversed function
 * Shifting property in DFT
 
+`ft_11`
+* Discrete version of convolution
+* Convolution is commutative
+* Shift and convolution
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
