@@ -73,8 +73,7 @@ Source:
 
 `ft_11`
 * Discrete version of convolution
-* Convolution is commutative
-* Shift and convolution
+* Commutative and shifting property in convolution
 
 ### Notes on `geometric optics` and `wave optics`
 
