@@ -75,6 +75,10 @@ Source:
 * Discrete version of convolution
 * Commutative and shifting property in convolution
 
+`ft_12`
+* Discrete version of delta function
+* Multiplication and convolution with discrete delta function
+
 ### Notes on `geometric optics` and `wave optics`
 
 Source: 
