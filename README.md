@@ -5,7 +5,7 @@
 
 ### Notes on `Fourier transform`
 
-Source:
+Main source
 * Lectures from Prof. Brad Osgood at Stanford
 
 `ft_01`
@@ -81,8 +81,8 @@ Source:
 
 ### Notes on `geometric optics` and `wave optics`
 
-Source: 
-* Lectures from Sander Konijnenberg, currently with ASML
+Main source 
+* Lectures from Sander Konijnenberg (ASML)
 
 `go_01`
 * Convex and concave lens
