@@ -86,6 +86,13 @@ Main reference
 * Integration with kernel is the only form of continuous linear system
 * Delta function and impulse response
 * Impulse response of Fourier transform
+
+`ft_14`
+* Linear system in the case of convolution
+* Delay operator
+* Convolution with a delayed function is delay of (convolution with the function)
+* Linear time-invariant system (LTI)
+* Convolution is the only form of LTI system
   
 ### Notes on `geometric optics` and `wave optics`
 
