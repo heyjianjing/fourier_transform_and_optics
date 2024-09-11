@@ -107,12 +107,15 @@ Main reference
 * Spatial frequency
 
 `ft_18`
-* High dimensional Fourier transform computable from lower dimensional cases: separable functions
+* High dimensional Fourier transform of separable functions
 
 `ft_19`
 * Shifting property of high dimensional Fourier transform
 * General scaling property of high dimensional Fourier transform
 * Properties of high dimensional delta function
+
+`ft_20`
+* 2D Shah function and its Fourier transform
 
 ### Notes on `geometric optics` and `wave optics`
 
