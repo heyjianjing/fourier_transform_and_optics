@@ -101,6 +101,10 @@ Main reference
 `ft_16`
 * Discrete LTI system with matrix-vector multiplication
 * Complex exponentials are eigenvectors of discrete LTI system
+
+`ft_17`
+* 2D Fourier transform
+* Spatial frequency
   
 ### Notes on `geometric optics` and `wave optics`
 
