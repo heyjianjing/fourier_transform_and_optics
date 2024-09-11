@@ -79,6 +79,14 @@ Main reference
 * Discrete version of delta function
 * Multiplication and convolution with discrete delta function
 
+`ft_13`
+* Definition of linear system
+* Sampling is a linear system
+* Integration with kernel as infinite dimensional matrix multiplication
+* Integration with kernel is the only form of continuous linear system
+* Delta function and impulse response
+* Impulse response of Fourier transform
+  
 ### Notes on `geometric optics` and `wave optics`
 
 Main reference 
