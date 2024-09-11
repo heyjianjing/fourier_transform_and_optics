@@ -93,6 +93,10 @@ Main reference
 * Convolution with a delayed function is delay of (convolution with the function)
 * Linear time-invariant system (LTI)
 * Convolution is the only form of LTI system
+
+`ft_15`
+* Fourier transform of LTI system
+* Complex exponentials are eigenfunctions of LTI system
   
 ### Notes on `geometric optics` and `wave optics`
 
