@@ -117,6 +117,9 @@ Main reference
 `ft_20`
 * 2D Shah function and its Fourier transform
 
+`ft_ex_01`
+* Example: Fraunhofer diffraction
+
 ### Notes on `geometric optics` and `wave optics`
 
 Main reference 
