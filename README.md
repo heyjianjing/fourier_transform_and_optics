@@ -97,6 +97,10 @@ Main reference
 `ft_15`
 * Fourier transform of LTI system
 * Complex exponentials are eigenfunctions of LTI system
+
+`ft_16`
+* Discrete LTI system with matrix-vector multiplication
+* Complex exponentials are eigenvectors of discrete LTI system
   
 ### Notes on `geometric optics` and `wave optics`
 
