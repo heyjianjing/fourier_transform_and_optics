@@ -105,6 +105,9 @@ Main reference
 `ft_17`
 * 2D Fourier transform
 * Spatial frequency
+
+`ft_18`
+* High dimensional Fourier transform computable from lower dimensional cases: separable functions
   
 ### Notes on `geometric optics` and `wave optics`
 
