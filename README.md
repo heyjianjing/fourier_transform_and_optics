@@ -5,7 +5,7 @@
 
 ### Notes on `Fourier transform`
 
-Main source
+Main reference
 * Lectures from Prof. Brad Osgood at Stanford
 
 `ft_01`
@@ -81,7 +81,7 @@ Main source
 
 ### Notes on `geometric optics` and `wave optics`
 
-Main source 
+Main reference 
 * Lectures from Sander Konijnenberg (ASML)
 
 `go_01`
