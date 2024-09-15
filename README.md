@@ -3,7 +3,7 @@
 `ft`: Fourier transform \
 `go`: geometric optics 
 
-### My notes on `Fourier transform`
+### Fourier transform
 
 Main reference
 * Lectures from Prof. Brad Osgood at Stanford
@@ -120,7 +120,7 @@ Main reference
 `ft_ex_01`
 * Example: Fraunhofer diffraction
 
-### My notes on `geometric optics` and `wave optics`
+### Geometric optics and wave optics
 
 Main reference 
 * Lectures from Sander Konijnenberg (ASML)
