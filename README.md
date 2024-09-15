@@ -1,7 +1,8 @@
 # Fourier transform and Fourier optics
 
 `ft`: Fourier transform \
-`go`: geometric optics 
+`go`: geometric optics \
+`wo`: wave optics 
 
 ### Fourier transform
 
@@ -150,3 +151,9 @@ Main reference
 * Chief ray and marginal ray
 * Aperture
 * Depth of focus
+
+`wo_01`
+* The concept of phase
+* Wave equation
+* Complex notation
+* Plane wave
