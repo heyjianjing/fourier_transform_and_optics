@@ -157,3 +157,8 @@ Main reference
 * Wave equation
 * Complex notation
 * Plane wave
+
+`wo_02`
+* Snell's law using plane wave equation
+* Evanescent field
+* Simple simulation of refraction and evanescent field
