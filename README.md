@@ -162,3 +162,7 @@ Main reference
 * Snell's law using plane wave equation
 * Evanescent field
 * Simple simulation of refraction and evanescent field
+
+`wo_03`
+* Spherical wave equation
+* Simple simulation of spherical wave
