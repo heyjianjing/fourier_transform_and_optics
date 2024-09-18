@@ -161,8 +161,9 @@ Main reference
 `wo_02`
 * Snell's law using plane wave equation
 * Evanescent field
-* Simple simulation of refraction and evanescent field
 
 `wo_03`
 * Spherical wave equation
-* Simple simulation of spherical wave
+
+`wo_04`
+* Huygens–Fresnel principle
