@@ -1,4 +1,4 @@
-# Fourier transform and Fourier optics
+# Fourier transform and optics
 
 `ft`: Fourier transform \
 `go`: geometric optics \
