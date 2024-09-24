@@ -121,7 +121,7 @@ Main reference
 `ft_ex_01`
 * Example: Fraunhofer diffraction
 
-### Geometric optics and wave optics
+### Optics
 
 Main reference 
 * Lectures from Sander Konijnenberg (ASML)
@@ -167,3 +167,8 @@ Main reference
 
 `wo_04`
 * Huygens–Fresnel principle
+
+`wo_05`
+* Double slit far field pattern with point source
+* As addition of complex-valued fields approximated as plane waves at screen
+* As path difference over integer multiple of wavelength
