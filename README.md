@@ -172,3 +172,11 @@ Main reference
 * Double slit (point source) far field pattern
 * As addition of complex-valued fields approximated as plane waves
 * As path difference over integer multiple of wavelength
+
+`wo_06`
+* Diffraction grating with slits of negligible width (point source)
+* Diffraction grating with slits of non-negligible width
+* Grating spectroscopy
+* Chromatic resolving power
+* Free spectral range
+* Numerical aperture (NA)
