@@ -177,6 +177,6 @@ Main reference
 * Diffraction grating with slits of negligible width (point source)
 * Diffraction grating with slits of non-negligible width
 * Grating spectroscopy
-* Chromatic resolving power
+* Chromatic resolving power (resolvance)
 * Free spectral range
 * Numerical aperture (NA)
