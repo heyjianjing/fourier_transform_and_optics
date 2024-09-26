@@ -159,7 +159,7 @@ Main reference
 * Plane wave
 
 `wo_02`
-* Snell's law using plane wave equation
+* Refraction and Snell's law from plane wave equation
 * Evanescent field
 
 `wo_03`
