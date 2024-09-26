@@ -169,6 +169,6 @@ Main reference
 * Huygens–Fresnel principle
 
 `wo_05`
-* Double slit far field pattern with point source
-* As addition of complex-valued fields approximated as plane waves at screen
+* Double slit (point source) far field pattern
+* As addition of complex-valued fields approximated as plane waves
 * As path difference over integer multiple of wavelength
