@@ -160,7 +160,7 @@ Main reference
 
 `wo_02`
 * Refraction and Snell's law from plane wave equation
-* Evanescent field
+* Total internal reflection and Evanescent field
 
 `wo_03`
 * Spherical wave equation
