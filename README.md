@@ -180,3 +180,8 @@ Main reference
 * Chromatic resolving power (resolvance)
 * Free spectral range
 * Numerical aperture (NA)
+
+`wo_07`
+* Michelson interferometry
+* Tilted beam interference
+* Haidinger pattern
