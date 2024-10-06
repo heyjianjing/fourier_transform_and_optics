@@ -7,7 +7,7 @@
 ### Fourier transform
 
 Main reference
-* Lectures from Prof. Brad Osgood at Stanford
+* Lectures from Prof. Brad Osgood (Stanford)
 
 `ft_01`
 * Analysis and synthesis of period function
