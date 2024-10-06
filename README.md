@@ -120,6 +120,10 @@ Main reference
 
 `ft_ex_01`
 * Example: Fraunhofer diffraction
+* Setup
+* Far field approximation
+* When nature is doing Fourier transform
+* Far field diffraction pattern for common aperture functions
 
 ### Optics
 
