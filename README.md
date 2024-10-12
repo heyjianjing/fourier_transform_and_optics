@@ -16,8 +16,8 @@ Main reference
 * Complex exponential as orthonormal basis for functions
 
 `ft_02`
-* Fourier series of function with period $T$
-* Setup for Fourier transform as Fourier series with $T \rightarrow \infty$
+* Fourier series of function with period T
+* Setup for Fourier transform as Fourier series with T goes to infinity
 * Variables of Fourier and inverse Fourier transform
 
 `ft_03`
