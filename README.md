@@ -189,3 +189,9 @@ Main reference
 * Michelson interferometry
 * Tilted beam interference
 * Haidinger pattern
+
+`wo_08`
+* Propagation of field
+* Decompose initial field into plane waves with angular spectrum
+* Propagate plane waves with plane wave equation
+* Reconstruct field after propagation using angular spectrum
