@@ -191,7 +191,16 @@ Main reference
 * Haidinger pattern
 
 `wo_08`
-* Propagation of field
 * Decompose initial field into plane waves with angular spectrum
 * Propagate plane waves with plane wave equation
 * Reconstruct field after propagation using angular spectrum
+
+`wo_09`
+* Huygens' principle
+* Propagation of field using Rayleigh-Sommerfeld (R-S) integral
+* R-S integral under Fresnel approximation
+* R-S integral under Fraunhofer approximation
+* Short notation for quadratic phase factor
+* When is Fresnel approximation valid
+* When is Fraunhofer approximation valid
+* Fresnel number
