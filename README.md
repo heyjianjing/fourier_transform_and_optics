@@ -118,6 +118,9 @@ Main reference
 `ft_20`
 * 2D Shah function and its Fourier transform
 
+`ft_21`
+* Hilbert transform and analytic signals
+
 `ft_ex_01`
 * Example: Fraunhofer diffraction
 * Setup
