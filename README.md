@@ -120,6 +120,7 @@ Main reference
 
 `ft_21`
 * Hilbert transform and analytic signals
+* Generalized demodulation
 
 `ft_ex_01`
 * Example: Fraunhofer diffraction
